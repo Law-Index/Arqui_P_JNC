@@ -1,0 +1,23 @@
+div{
+    height: 100%;
+    background-image: url(/assets/regla-triangular.png);
+    background-repeat: no-repeat;
+    background-size: 190px;
+}
+
+.p_1{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size: 70px;
+    font-weight: 400;
+    color: white;
+    margin-left: 1.7em;
+    padding-top: 0.5em;
+}
+
+.p_2{
+    font-family: 'Bigshot One', cursive;
+    font-size: 67px;
+    padding-top: 1em;
+    margin-left: 0.4em;
+    color: white;
+}

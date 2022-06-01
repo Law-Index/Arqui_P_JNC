@@ -1,0 +1,13 @@
+.contenedor_padre{
+    height: 41.05em;
+    background-image: url(/assets/fondo.jpeg);
+}
+
+.contenedor_nav{
+    width: 600px;
+}
+
+.contenedor_eslo{
+    margin-top: 16em;
+    height: 19em;
+}
