@@ -2,6 +2,11 @@ div{
     padding-top: 15px;
     padding-bottom: 5px;
     padding-left: 15px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
 }
 a{
     font-size: 20px;

@@ -1,0 +1,41 @@
+h2{
+    font-size: 35px;
+    background-color: white;
+    color: slateblue;
+    font-family: 'Bigshot One', cursive;
+    border-bottom: 3px solid rgb(146, 131, 249);
+}
+p{
+    font-size: 20px;
+    margin-top: 65px;
+    text-align: center;
+    color: rgb(56, 45, 125);
+    font-family: 'Viga', sans-serif;
+}
+
+.padre_redes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.redes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin: 0 30px;
+    transition: 0.5s;
+}
+
+img:hover{
+    transform: scale(1.2);
+}
