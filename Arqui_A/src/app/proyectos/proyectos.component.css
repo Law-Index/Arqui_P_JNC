@@ -1,0 +1,13 @@
+h2{
+    font-size: 35px;
+    margin-bottom: 30px;
+    background-color: white;
+    color: slateblue;
+    font-family: 'Bigshot One', cursive;
+    border-bottom: 3px solid rgb(146, 131, 249);
+}
+
+div{
+    padding: 0px 18%;
+    padding-top: 200px;
+}
