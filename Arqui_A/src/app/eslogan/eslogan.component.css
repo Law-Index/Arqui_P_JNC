@@ -1,8 +1,8 @@
 div{
-    height: 100%;
-    background-image: url(/assets/regla-triangular.png);
+
+    background-image: url("/assets/regla-triangular.png");
     background-repeat: no-repeat;
-    background-size: 190px;
+    background-size: 200px;
 }
 
 .p_1{
@@ -10,7 +10,7 @@ div{
     font-size: 70px;
     font-weight: 400;
     color: white;
-    margin-left: 1.7em;
+    margin-left: 1.8em;
     padding-top: 0.5em;
 }
 

@@ -8,8 +8,12 @@ p {
 
 a {
     text-decoration: none;
-    color: darkviolet;
+    color: rgb(95, 0, 135);
 }
+.kit {
+  color: black;
+}
+
   p span {
     color: slateblue;
   }

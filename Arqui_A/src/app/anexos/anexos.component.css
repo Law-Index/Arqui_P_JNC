@@ -1,0 +1,27 @@
+.contenedor_anexos_padre {
+    width:100%;
+}
+
+.conte_hijo_anexos {
+    height: 38em;
+    border-radius: 0px 0px 100px 100px;
+    background-color: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    border: solid 4px slateblue;
+    width: 300px;
+    height: 300px;
+    margin-top: 15px;
+}
+
+h1, h3 {
+    text-align: center;
+    font-family: 'Viga', sans-serif;
+    margin-top: 15px;
+}

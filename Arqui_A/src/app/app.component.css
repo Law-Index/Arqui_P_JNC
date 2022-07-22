@@ -28,14 +28,7 @@
     background-size: 1050px;
 }
 
-.contenedor_info_proyectos{
-    width:100%;
-    height: 41.05em;
-}
-/*---------------------------------------------*/
-
-
-.contenedor_info_categorias{
+.contenedor_info_proyectos , .contenedor_info_categorias , .contenedor_info_anexos{
     width:100%;
     height: 41.05em;
 }

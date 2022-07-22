@@ -1,0 +1,10 @@
+.conte_footer {
+    height: 30vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+    color: grey;
+}
